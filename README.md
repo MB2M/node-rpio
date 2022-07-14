@@ -5,6 +5,10 @@ This is a high performance node.js addon which provides access to the Raspberry
 Pi and SunXi (Allwinner V40) GPIO interfaces, supporting regular GPIO as well
 as i²c, PWM, and SPI.
 
+
+modified by apollorobot
+
+
 [![NPM version](https://img.shields.io/npm/v/rpio.svg)](https://www.npmjs.com/package/rpio)
 [![Node.js version](https://img.shields.io/node/v/rpio.svg)](http://nodejs.org/download/)
 [![NPM downloads](https://img.shields.io/npm/dw/rpio.svg)](https://www.npmjs.com/package/rpio)

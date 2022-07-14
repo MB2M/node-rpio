@@ -1,8 +1,8 @@
 {
-  "name": "rpio",
+  "name": "apollorpio",
   "version": "2.4.2",
   "description": "High performance GPIO/i2c/PWM/SPI module for Raspberry Pi, Orange Pi, Banana Pi",
-  "homepage": "https://www.npmjs.com/package/rpio",
+  "homepage": "https://www.npmjs.com/package/apollorpio",
   "main": "./lib/rpio.js",
   "scripts": {
     "install": "node-gyp rebuild",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jperkin/node-rpio.git"
+    "url": "https://github.com/ApolloRobot/node-rpio.git"
   },
   "keywords": [
     "allwinner",
@@ -45,7 +45,7 @@
     "spi",
     "sunxi"
   ],
-  "author": "Jonathan Perkin <jonathan@perkin.org.uk> (http://www.perkin.org.uk/)",
+  "author": "Jonathan Perkin <jonathan@perkin.org.uk> (http://www.perkin.org.uk/)&&apollorobot(https://apollo.mnoiot.com/)",
   "license": "(ISC AND GPL-2.0)",
   "gypfile": true
 }

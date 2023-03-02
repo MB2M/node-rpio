@@ -1,8 +1,7 @@
 {
-  "name": "apollorpio",
+  "name": "MB2Mrpio",
   "version": "2.4.3",
   "description": "High performance GPIO/i2c/PWM/SPI module for Raspberry Pi, Orange Pi, Banana Pi",
-  "homepage": "https://www.npmjs.com/package/apollorpio",
   "main": "./lib/rpio.js",
   "scripts": {
     "install": "node-gyp rebuild",
@@ -23,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ApolloRobot/node-rpio.git"
+    "url": "https://github.com/MB2M/node-rpio.git"
   },
   "keywords": [
     "allwinner",
